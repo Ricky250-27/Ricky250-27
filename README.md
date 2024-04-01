@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ricky250-27
 - 👀 I’m interested in tech and games
 - 🌱 I’m currently learning unreal engine
-- 💞️ I’m looking to collaborate on nothing
 
 <!---
 Ricky250-27/Ricky250-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
